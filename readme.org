@@ -1,0 +1,2 @@
+* python and C interoperation -- test and try
+the sample code comes from "python cookbook"
